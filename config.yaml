@@ -1,0 +1,6 @@
+database:
+  host: "db.local"
+  port: 5432
+features:
+  enable_auth: true
+  enable_cache: false

@@ -1,0 +1,4 @@
+welcome_message: "Hello {{ user }}!"
+database:
+  host: "db.local"
+  port: 5432
