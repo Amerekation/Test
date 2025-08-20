@@ -219,6 +219,8 @@ app/
   errors.py        # исключения -> HTTP коды
   migrations/
     001_init.sql
+tests/
+   test_validation
 Dockerfile
 docker-compose.yml
 README.md
