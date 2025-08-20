@@ -220,7 +220,7 @@ app/
   migrations/
     001_init.sql
 tests/
-   test_validation
+   test_validation.py
 Dockerfile
 docker-compose.yml
 README.md
